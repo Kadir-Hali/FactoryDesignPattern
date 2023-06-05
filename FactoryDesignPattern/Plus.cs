@@ -1,6 +1,6 @@
 ﻿namespace FactoryDesignPattern;
 
-internal class Plus : ICalculator
+public class Plus : ICalculator
 {
     public void Calculate()
     {

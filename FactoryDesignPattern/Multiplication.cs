@@ -1,6 +1,6 @@
 ﻿namespace FactoryDesignPattern;
 
-internal class Multiplication : ICalculator
+public class Multiplication : ICalculator
 {
     public void Calculate()
     {

@@ -1,6 +1,6 @@
 ﻿namespace FactoryDesignPattern;
 
-internal class Minus : ICalculator
+public class Minus : ICalculator
 {
     public void Calculate()
     {
